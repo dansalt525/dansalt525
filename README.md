@@ -1,4 +1,6 @@
-## Hi there 👋
+## 이수진 😊
+
+영남대학교 통계학과 이수진입니다.
 
 <!--
 **dansalt525/dansalt525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
